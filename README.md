@@ -1,5 +1,5 @@
 # Starter Web Project
-Simple description
+Simple description. Adding a simple line
 ## Introduction
 Simple Introduction
 ## Purpose
